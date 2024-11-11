@@ -5,4 +5,6 @@ For clone the main repository and initialize the submodules do:
 git submodule update --init --recursive
 ```
 For update the submodule to the last version do:
-`git submodule update --remote`
+```bash
+git submodule update --remote
+```
