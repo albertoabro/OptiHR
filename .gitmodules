@@ -1,0 +1,3 @@
+[submodule "OptiHR_Config_Server"]
+	path = OptiHR_Config_Server
+	url = https://github.com/albertoabro/OptiHR_Config_Server.git
