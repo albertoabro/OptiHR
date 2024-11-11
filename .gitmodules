@@ -4,3 +4,6 @@
 [submodule "OptiHR_Config_Data"]
 	path = OptiHR_Config_Data
 	url = https://github.com/albertoabro/OptiHR_Config_Data.git
+[submodule "OptiHR_Authorization_Service"]
+	path = OptiHR_Authorization_Service
+	url = https://github.com/albertoabro/OptiHR_Authorization_Service.git
