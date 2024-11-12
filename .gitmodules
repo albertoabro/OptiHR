@@ -7,3 +7,6 @@
 [submodule "OptiHR_Authorization_Service"]
 	path = OptiHR_Authorization_Service
 	url = https://github.com/albertoabro/OptiHR_Authorization_Service.git
+[submodule "OptiHR_Eureka_Server"]
+	path = OptiHR_Eureka_Server
+	url = https://github.com/albertoabro/OptiHR_Eureka_Server.git
